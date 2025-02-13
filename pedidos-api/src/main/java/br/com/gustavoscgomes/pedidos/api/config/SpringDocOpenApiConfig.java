@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class SpringDocOpenApiConfig {
+
     @Bean
     public OpenAPI openAPI() {
         return new OpenAPI()

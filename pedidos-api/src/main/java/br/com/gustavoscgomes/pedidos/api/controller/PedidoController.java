@@ -22,6 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class PedidoController {
 
     private final Logger logger = LoggerFactory.getLogger(PedidoController.class);
+
     @Operation(summary = "cria um novo pedido", description = "contem as operacoes para criar um novo pedido",
             responses = @ApiResponse(responseCode = "201", description = "Recurso criado com sucesso",
                     content = @Content(mediaType = "application/json", schema = @Schema(implementation = Pedido.class)
