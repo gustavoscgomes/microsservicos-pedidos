@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/notificacao/notificacao.iml" filepath="$PROJECT_DIR$/notificacao/notificacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/pedidos-api/pedidos-api.iml" filepath="$PROJECT_DIR$/pedidos-api/pedidos-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto-microsservicos.iml" filepath="$PROJECT_DIR$/projeto-microsservicos.iml" />
     </modules>
