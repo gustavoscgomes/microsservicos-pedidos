@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$/notificacao/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/notificacao/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pedidos-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processador/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processador/src/main/resources" charset="UTF-8" />
   </component>
 </project>

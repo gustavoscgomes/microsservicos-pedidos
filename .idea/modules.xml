@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/notificacao/notificacao.iml" filepath="$PROJECT_DIR$/notificacao/notificacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/pedidos-api/pedidos-api.iml" filepath="$PROJECT_DIR$/pedidos-api/pedidos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processador/processador.iml" filepath="$PROJECT_DIR$/processador/processador.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto-microsservicos.iml" filepath="$PROJECT_DIR$/projeto-microsservicos.iml" />
     </modules>
   </component>

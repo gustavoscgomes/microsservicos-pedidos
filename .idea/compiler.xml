@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="notificacao" />
+        <module name="processador" />
       </profile>
       <profile name="Annotation profile for pedidos-api" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -22,12 +23,14 @@
     <bytecodeTargetLevel>
       <module name="notificacao" target="19" />
       <module name="pedidos-api" target="19" />
+      <module name="processador" target="19" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="notificacao" options="-parameters" />
       <module name="pedidos-api" options="-parameters" />
+      <module name="processador" options="-parameters" />
     </option>
   </component>
 </project>
